@@ -37,6 +37,9 @@ BTW: also a best project for Developers to learn Next.js, HeroUI, TailwindCSS, M
 ```bash
 git clone https://github.com/FoxBary/twitterxdownload.git
 cd twitterxdownload
+apt -y install npm
+curl -fsSL https://cdn.coollabs.io/coolify/install.sh | sudo bash
+
 ```
 
 2. Install dependencies:
