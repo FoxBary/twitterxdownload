@@ -27,7 +27,7 @@ BTW: also a best project for Developers to learn Next.js, HeroUI, TailwindCSS, M
 - Node.js 20+ 
 - Git
 - A server with Coolify installed
-> Get a supercheap and stable server from RackNerd (https://my.racknerd.com/aff.php?aff=10399)
+> Get a supercheap and stable server from VmShell (https://vmshell.com)
 
 ### Local Development Setup
 
@@ -35,7 +35,7 @@ BTW: also a best project for Developers to learn Next.js, HeroUI, TailwindCSS, M
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-github-username/twitterxdownload.git
+git clone https://github.com/FoxBary/twitterxdownload.git
 cd twitterxdownload
 ```
 
